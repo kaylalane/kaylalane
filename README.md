@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kaylalane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML & C+
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web design. 
+- 🌱 I’m currently learning HTML, CSS and Javascript but I know C++. 
+- 📫 How to reach me - https://www.linkedin.com/in/kaylamarielane/
 
 <!---
 kaylalane/kaylalane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
