@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaylalane
-- 👀 I’m interested in web design. 
-- 🌱 I’m currently learning HTML, CSS and Javascript but I know C++. 
+- 👀 I’m interested in front-end development. 
+- 🌱 I’m currently learning Javascript and React.js.
 - 📫 How to reach me - https://www.linkedin.com/in/kaylamarielane/
 
 ![](https://komarev.com/ghpvc/?username=kaylalane)
