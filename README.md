@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @kaylalane
 - 👀 I’m interested in front-end development. 
 - 🌱 I’m currently learning Javascript and React.js.
-- 📫 How to reach me - https://www.linkedin.com/in/kaylamarielane/
+- 📫 How to reach me - kaylalane188@icloud.com or https://www.linkedin.com/in/kaylamarielane/
 
-![](https://komarev.com/ghpvc/?username=kaylalane)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaylalane&theme=dark&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylalane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaylalane&hide=contribs)
 
