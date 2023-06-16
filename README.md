@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thekaylalane" target="blank"><img src="https://img.shields.io/twitter/follow/thekaylalane?logo=twitter&style=for-the-badge" alt="thekaylalane" /></a> </p>
 
-- 🔭 I’m currently working on [A todo app](https://todo-fbd77.web.app/)
+- 🔭 I’m currently working on [A todo app](https://todo-list-9b6c5.web.app/)
 
 - 🌱 I’m currently learning **React, Firebase and PostgreSQL**
 
