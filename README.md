@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/thekaylalane" target="blank"><img src="https://img.shields.io/twitter/follow/thekaylalane?logo=twitter&style=for-the-badge" alt="thekaylalane" /></a> </p>
 
-- 🔭 I’m currently working on [A todo app](https://todo-list-9b6c5.web.app/)
+- 🔭 I’m currently working on [A MERN blog](https://kaylalane.me/)
 
-- 🌱 I’m currently learning **React, Firebase and PostgreSQL**
+- 🌱 I’m currently learning **React, Redux and Node.js**
 
 - 👩🏾‍💻 All of my projects are available at [https://www.kaylamarielane.com/](https://www.kaylamarielane.com/)
 
-- 💬 Ask me about **Migrating from Javascript to Typescript**
+- 💬 Ask me about **Migrating from frontend to fullstack**
 
 - 📫 How to reach me **thekaylalane@gmail.com**
 
@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thekaylalane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekaylalane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaylamarielane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaylamarielane/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
